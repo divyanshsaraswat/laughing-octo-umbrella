@@ -6,7 +6,7 @@ export const AppConfig = {
     env: "production",
     port: 8080,
 
-    // Leaked generic secret API key 
+    // Leaked generic secret API key  d
     // openAiToken: "sk-1234567890abcdef1234567890abcdef",
     openAiToken: "sk-1234567890abcdef1234567890abcdef",
 // jvdfjv
